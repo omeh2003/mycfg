@@ -1,0 +1,2 @@
+# mycfg
+myconfig and script
